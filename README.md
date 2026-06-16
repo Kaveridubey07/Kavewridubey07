@@ -28,7 +28,7 @@
 💡 Passionate **Python Developer** focused on building clean, scalable, and production-ready backend systems.
 
 - 🔭 Currently working on **Python Backend | REST APIs | Automation Projects**
-- 🌐 Building **Web Applications using Python + FastAPI / Django**
+- 🌐 Building **Web Applications using Python + FastAPI / Flask**
 - 🛠 Hands-on with **Scripting, Data Pipelines & System Automation**
 - 📈 Preparing for **Python Developer & Backend Engineering roles**
 - ⚡ Strong focus on **clean code, scalability, and performance**
@@ -70,16 +70,16 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-`NumPy` • `Pandas` • `Requests` • `BeautifulSoup` • `Asyncio` • `Pydantic` • `Poetry` • `Pipenv`
+ `Requests` • `Asyncio` • `Pydantic` 
 
 ### 🌐 Web & Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,mongodb,mysql,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=html,css,mongodb,mysql,postgres" />
 </p>
 
 ### ⚙️ Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -90,10 +90,9 @@
 
 ## 🔥 Featured Work
 
-🚀 **REST API Development** using FastAPI & Django REST Framework  
+🚀 **REST API Development** using FastAPI & Flask REST Framework  
 🤖 **Automation Scripts** for data scraping, processing & reporting  
 🗄️ **Database-driven Applications** with PostgreSQL & MongoDB  
-🧪 **Tested Python Services** with Pytest & CI/CD pipelines  
 🌍 **Full Stack Python Projects** with real-world use cases  
 
 ---
@@ -166,6 +165,6 @@ Looking to contribute to impactful projects while continuously learning and grow
 </p>
 
 ## ⚡ Positioning Statement
-I write Python that ships — clean, tested, and built to last in production.
+I write Python that ships  clean, tested, and built to last in production.
 
-### Python & Backend Dev World 🐍
+### Python Developer & Backend Dev World 🐍
