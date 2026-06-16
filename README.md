@@ -132,7 +132,7 @@ Looking to contribute to impactful projects while continuously learning and grow
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaveri-dubey">
+  <a href="https://www.linkedin.com/in/kaveri-dubey-107695415">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
