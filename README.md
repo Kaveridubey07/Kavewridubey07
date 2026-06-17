@@ -8,7 +8,7 @@
 <h3 align="center">Python Developer & Backend Engineer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaveri-dubey-107695415">
+  <a href="https://www.linkedin.com/in/kaveri-dubey">
     <img src="https://img.shields.io/badge/LinkedIn-Kaveri%20Dubey-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
@@ -28,7 +28,7 @@
 💡 Passionate **Python Developer** focused on building clean, scalable, and production-ready backend systems.
 
 - 🔭 Currently working on **Python Backend | REST APIs | Automation Projects**
-- 🌐 Building **Web Applications using Python + FastAPI / Flask**
+- 🌐 Building **Web Applications using Python + FastAPI / Django**
 - 🛠 Hands-on with **Scripting, Data Pipelines & System Automation**
 - 📈 Preparing for **Python Developer & Backend Engineering roles**
 - ⚡ Strong focus on **clean code, scalability, and performance**
@@ -70,16 +70,16 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
- `Requests` • `Asyncio` • `Pydantic` 
+`NumPy` • `Pandas` • `Requests` • `BeautifulSoup` • `Asyncio` • `Pydantic` • `Poetry` • `Pipenv`
 
 ### 🌐 Web & Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,mongodb,mysql,postgres,redis" />
 </p>
 
 ### ⚙️ Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" />
 </p>
 
 ---
@@ -90,9 +90,10 @@
 
 ## 🔥 Featured Work
 
-🚀 **REST API Development** using FastAPI & Flask REST Framework  
+🚀 **REST API Development** using FastAPI & Django REST Framework  
 🤖 **Automation Scripts** for data scraping, processing & reporting  
 🗄️ **Database-driven Applications** with PostgreSQL & MongoDB  
+🧪 **Tested Python Services** with Pytest & CI/CD pipelines  
 🌍 **Full Stack Python Projects** with real-world use cases  
 
 ---
@@ -132,7 +133,7 @@ Looking to contribute to impactful projects while continuously learning and grow
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaveri-dubey-107695415">
+  <a href="https://www.linkedin.com/in/kaveri-dubey">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
@@ -165,6 +166,6 @@ Looking to contribute to impactful projects while continuously learning and grow
 </p>
 
 ## ⚡ Positioning Statement
-I write Python that ships  clean, tested, and built to last in production.
+I write Python that ships — clean, tested, and built to last in production.
 
-### Python Developer & Backend Dev World 🐍
+### Python & Backend Dev World 🐍
