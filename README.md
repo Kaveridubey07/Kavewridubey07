@@ -148,15 +148,15 @@ Looking to contribute to impactful projects while continuously learning and grow
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaveri-dubey&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaveri-dubey&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaveridubey07&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaveri-dubey&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaveridubey07&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaveri-dubey&label=Profile%20Views&color=e94560&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Kaveridubey07&label=Profile%20Views&color=e94560&style=flat" />
 </p>
 
 ---
@@ -168,4 +168,4 @@ Looking to contribute to impactful projects while continuously learning and grow
 ## ⚡ Positioning Statement
 I write Python that ships — clean, tested, and built to last in production.
 
-### Python & Backend Dev World 🐍
+### Python Developer & Backend Dev World 💻
