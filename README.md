@@ -147,7 +147,7 @@ Looking to contribute to impactful projects while continuously learning and grow
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaveri-dubey&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaveridubey07&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaveridubey07&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
